@@ -12,6 +12,7 @@
 		<Description>A WPF control that wraps the base WPF link control so that it can be more easily used in typical containers.</Description>
 		<PackageId>ChrisKaczor.Wpf.Controls.Link</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<AssemblyName>ChrisKaczor.Wpf.Controls.Link</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
 		<None Update="README.md">
