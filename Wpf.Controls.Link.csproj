@@ -9,7 +9,7 @@
 		<Product>ChrisKaczor.Wpf.Controls.Link</Product>
 		<RepositoryUrl>https://github.com/ckaczor/ChrisKaczor.Wpf.Controls.Link</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<Description>A WPF control that extends the base TextBlock control with rudimentary support for some basic HTML formatting.</Description>
+		<Description>A WPF control that wraps the base WPF link control so that it can be more easily used in typical containers.</Description>
 		<PackageId>ChrisKaczor.Wpf.Controls.Link</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>
