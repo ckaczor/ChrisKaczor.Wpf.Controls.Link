@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net7.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<RootNamespace>ChrisKaczor.Wpf.Controls</RootNamespace>
+		<Title>ChrisKaczor.Wpf.Controls.Link</Title>
+		<Authors>Chris Kaczor</Authors>
+		<Product>ChrisKaczor.Wpf.Controls.Link</Product>
+		<RepositoryUrl>https://github.com/ckaczor/ChrisKaczor.Wpf.Controls.Link</RepositoryUrl>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<Description>A WPF control that extends the base TextBlock control with rudimentary support for some basic HTML formatting.</Description>
+		<PackageId>ChrisKaczor.Wpf.Controls.Link</PackageId>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Update="README.md">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+</Project>
